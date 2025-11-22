@@ -1,5 +1,7 @@
 ## Scripts
 
+[My totally awesome game](https://neromagnum.github.io/gobs-o-goblins/)
+
 `npm start` Run the app local with webpack dev server on port 8080.
 
 `npm test` Run all tests
